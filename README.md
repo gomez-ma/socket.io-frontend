@@ -1,2 +1,2 @@
-# How to run
+# Run
 npm run dev
